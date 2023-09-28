@@ -1,9 +1,8 @@
 package com.leetcode.problems.dp;
 
 import java.util.Arrays;
-import java.util.Map;
 
-public class DPFibnocci {
+public class DPFibnocciMemoization{
     private static int fib(int n, int[] map){
         if(n == 0)
             return 0;
