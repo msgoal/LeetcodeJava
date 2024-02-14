@@ -40,7 +40,7 @@ public class NextPermutation {
         Arrays.stream(inp).forEach(x -> System.out.print(" "+x));
         System.out.println();
 
-        inp = new int[]{5,4,3,2,1};
+        /*inp = new int[]{5,4,3,2,1};
         nextPermutation(inp);
         Arrays.stream(inp).forEach(x -> System.out.print(" "+x));
         System.out.println();
@@ -58,7 +58,7 @@ public class NextPermutation {
         inp = new int[]{5,1,1};
         nextPermutation(inp);
         Arrays.stream(inp).forEach(x -> System.out.print(" "+x));
-        System.out.println();
+        System.out.println();*/
 
     }
 }
